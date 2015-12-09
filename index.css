@@ -1,0 +1,96 @@
+hr {
+    padding: 0px 0px 0px 0px;
+}
+
+#header-background {
+    height: 550px;
+    width: auto;
+    background: url(home_bg.jpg) no-repeat center fixed;
+    padding: 0px 0px 0px 0px;
+}
+
+.page-header-content {
+    padding-left: 10%;
+    text-align-last: left;
+}
+
+.nav.nav-pills li a {
+    color: black;
+}
+
+#home-header {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.home-content {
+    text-align: center;
+}
+
+#about-header {
+    color: gray;
+    padding-left: 5%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about-content {
+    padding-left: 7%;
+    background: no-repeat center fixed;
+}
+
+#about-sidebar-img {
+    padding-right: 5%;
+}
+
+#about-sidebar-img.resize {
+    height: 75%;
+    width: auto;
+}
+
+#portfolio-header {
+    color: gray;
+    padding-left: 5%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.portfolio-content {
+    text-align: center;
+}
+
+.placeholder-img {
+    height: 150px;
+    width: 200px;
+}
+
+#contact-header {
+    color: gray;
+    padding-left: 5%;
+    padding-bottom: 25px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.contact-content {
+    height: 100px;
+    width: auto;
+    padding-left: 7%;
+}
+
+.twitter-btn {
+    margin-right: 10px;
+}
+
+.linkedin-btn {
+    margin-right: 10px;
+}
+
+.github-btn {
+    margin-right: 10px;
+}
+
+.fcc-btn {
+    margin-right: 10px;
+}
+
+#page-footer {
+    margin-left: 5%;
+}
